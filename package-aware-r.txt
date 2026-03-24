@@ -1,0 +1,23 @@
+com.example.sparktestapp
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id main
+id resetbutton2
+id resulttext
+id suggestbutton
+id timeinput
+id titletext
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string get_social_spark
+string morning_afternoon_evening_breakfast_lunch_dinner
+string reset
+string social_spark
+style Base_Theme_Sparktestapp
+style Theme_Sparktestapp
+xml backup_rules
+xml data_extraction_rules
