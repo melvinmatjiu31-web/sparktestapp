@@ -97,3 +97,21 @@ Overall, the application serves as a strong foundation for future enhancements a
 
 REFERENCE
 [ MATJIU, M 2026 ]
+
+ Spark Test App
+
+ Description
+This project is a web application built using (your language/framework).
+
+Features
+- User login
+- Data processing
+  
+
+References
+- https://stackoverflow.com/...
+- https://github.com/other-project
+- https://youtube.com/...
+
+ Author
+Melvin Matjiu
