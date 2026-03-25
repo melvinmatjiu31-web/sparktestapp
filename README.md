@@ -95,3 +95,5 @@ This project demonstrates how contextual information, such as time of day, can b
 By combining thoughtful design with modern development tools such as GitHub and GitHub Actions, the project highlights both technical competence and user-centered innovation.
 Overall, the application serves as a strong foundation for future enhancements and more advanced context-aware systems.
 
+REFERENCE
+[ MATJIU, M 2026 ]
