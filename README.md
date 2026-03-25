@@ -95,6 +95,45 @@ This project demonstrates how contextual information, such as time of day, can b
 By combining thoughtful design with modern development tools such as GitHub and GitHub Actions, the project highlights both technical competence and user-centered innovation.
 Overall, the application serves as a strong foundation for future enhancements and more advanced context-aware systems.
 
+ 12. System Flow and Logging Explanation
+
+The application uses structured logging to demonstrate how the system operates internally. 
+This helps track program execution and proves understanding of the code logic.
+
+ Logging Categories Used
+- [INIT] → Application startup
+- [REQUEST] → User interaction/input
+- [DATA] → Data being processed
+- [LOGIC] → Decision-making steps
+- [ERROR] → Handling unexpected issues
+
+ Example Flow
+
+When a user selects a time of day, the system performs the following steps:
+
+1. Receives user input  
+   Log:
+   [REQUEST] User selected time: Morning
+
+2. Processes the input  
+   Log:
+   [DATA] Processing time category: Morning
+
+3. Applies decision logic  
+   Log:
+   [LOGIC] Matching time to suggestion category
+
+4. Generates suggestion  
+   Log:
+   [DATA] Suggestion generated: "Plan your day or send a motivational message"
+
+5. Displays result to user  
+   Log:
+   [DATA] Output displayed successfully
+
+
+
+
 REFERENCE
 [ MATJIU, M 2026 ]
 
