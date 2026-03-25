@@ -136,17 +136,7 @@ When a user selects a time of day, the system performs the following steps:
 
 REFERENCE
 [ MATJIU, M 2026 ]
-
- Spark Test App
-
- Description
-This project is a web application built using (your language/framework).
-
-Features
-- User login
-- Data processing
   
-
 References
 - https://stackoverflow.com/...
 - https://github.com/other-project
